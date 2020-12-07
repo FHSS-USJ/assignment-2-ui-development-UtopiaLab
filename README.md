@@ -1,1 +1,2 @@
-"# assignment-2-ui-development-UtopiaLab" 
+# Mobile Application Development 
+## Assignment 02 - UI Development (React Native)
